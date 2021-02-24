@@ -1,6 +1,6 @@
 UCCA-Annotated Wall Street Journal Sentences
 ============================================
-Version 2.0 (April 8, 2019
+Version 2.0 (April 8, 2019)
 -----------------------------
 
 This bundle contains 100 sentences annotated according to the [foundational layer of UCCA](https://github.com/UniversalConceptualCognitiveAnnotation/UCCA_English-Wiki/tree/master#xml-format). 
