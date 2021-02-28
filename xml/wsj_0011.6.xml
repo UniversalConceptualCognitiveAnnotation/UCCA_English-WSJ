@@ -165,7 +165,7 @@
     </node>
     <node ID="1.8" type="FN">
       <attributes />
-      <extra tree_id="3-1" />
+      <extra remarks="?" tree_id="3-1" />
       <edge toID="1.9" type="E">
         <attributes />
         <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="E" />
@@ -209,7 +209,7 @@
     </node>
     <node ID="1.13" type="FN">
       <attributes />
-      <extra tree_id="3-4" />
+      <extra remarks="focus?" tree_id="3-4" />
       <edge toID="1.14" type="F">
         <attributes />
         <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="F" />

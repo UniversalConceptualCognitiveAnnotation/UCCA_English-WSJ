@@ -114,17 +114,13 @@
     <node ID="1.4" type="FN">
       <attributes />
       <extra tree_id="1-1-1" />
-      <edge toID="1.5" type="Q">
+      <edge toID="1.5" type="C">
         <attributes />
-        <category layer_name="UCCA's foundational layer (+restrictions)" tag="Q" />
+        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="C" />
       </edge>
       <edge toID="1.6" type="E">
         <attributes />
         <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="E" />
-      </edge>
-      <edge toID="1.12" type="C">
-        <attributes remote="True" />
-        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="C" />
       </edge>
     </node>
     <node ID="1.5" type="FN">
@@ -237,7 +233,7 @@
     </node>
     <node ID="1.16" type="FN">
       <attributes />
-      <extra tree_id="2" />
+      <extra remarks="is this a tokenization issue?" tree_id="2" />
       <edge toID="1.15" type="A">
         <attributes remote="True" />
         <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="A" />
@@ -330,7 +326,7 @@
     </node>
     <node ID="1.25" type="FN">
       <attributes />
-      <extra tree_id="5" />
+      <extra remarks="an Implicit for the passive is needed here, right?" tree_id="5" />
       <edge toID="1.24" type="A">
         <attributes remote="True" />
         <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="A" />

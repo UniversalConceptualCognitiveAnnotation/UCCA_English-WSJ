@@ -116,7 +116,7 @@
     </node>
     <node ID="1.8" type="FN">
       <attributes />
-      <extra tree_id="1-4" />
+      <extra remarks="?" tree_id="1-4" />
       <edge toID="1.9" type="R">
         <attributes />
         <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="R" />

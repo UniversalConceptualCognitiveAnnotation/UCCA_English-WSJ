@@ -267,7 +267,7 @@
     </node>
     <node ID="1.17" type="FN">
       <attributes />
-      <extra tree_id="1-3-3-2-3" />
+      <extra remarks="should this be two Cs?" tree_id="1-3-3-2-3" />
       <edge toID="1.18" type="R">
         <attributes />
         <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="R" />

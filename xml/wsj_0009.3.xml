@@ -242,7 +242,7 @@
     </node>
     <node ID="1.16" type="FN">
       <attributes />
-      <extra tree_id="1-7" />
+      <extra remarks="names" tree_id="1-7" />
       <edge toID="1.17" type="R">
         <attributes />
         <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="R" />

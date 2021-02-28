@@ -237,7 +237,7 @@
     </node>
     <node ID="1.13" type="FN">
       <attributes />
-      <extra tree_id="1-1-4-3-2" />
+      <extra remarks="?" tree_id="1-1-4-3-2" />
       <edge toID="0.8" type="Terminal">
         <attributes />
         <category tag="Terminal" />
@@ -334,7 +334,7 @@
     </node>
     <node ID="1.23" type="FN">
       <attributes />
-      <extra tree_id="1-3-2" />
+      <extra remarks="scene?&#10;name" tree_id="1-3-2" />
       <edge toID="1.24" type="R">
         <attributes />
         <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="R" />

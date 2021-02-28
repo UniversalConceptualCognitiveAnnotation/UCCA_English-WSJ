@@ -173,7 +173,7 @@
     </node>
     <node ID="1.13" type="FN">
       <attributes />
-      <extra tree_id="3" />
+      <extra remarks="IMP for passive?" tree_id="3" />
       <edge toID="1.14" type="A">
         <attributes />
         <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="A" />

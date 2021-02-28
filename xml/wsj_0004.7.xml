@@ -373,7 +373,7 @@
     </node>
     <node ID="1.23" type="FN">
       <attributes />
-      <extra tree_id="1-1-4-4-1-4" />
+      <extra remarks="be a stronger_D indicator_S?" tree_id="1-1-4-4-1-4" />
       <edge toID="1.9" type="A">
         <attributes remote="True" />
         <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="A" />

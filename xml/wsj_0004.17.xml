@@ -154,7 +154,7 @@
     </node>
     <node ID="1.5" type="FN">
       <attributes />
-      <extra tree_id="1-1-2" />
+      <extra remarks="tokenization?" tree_id="1-1-2" />
       <edge toID="0.2" type="Terminal">
         <attributes />
         <category tag="Terminal" />

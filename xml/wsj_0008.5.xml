@@ -186,7 +186,7 @@
     </node>
     <node ID="1.9" type="FN">
       <attributes />
-      <extra tree_id="3" />
+      <extra remarks="Maybe this should be part of the previous scene?" tree_id="3" />
       <edge toID="1.5" type="A">
         <attributes remote="True" />
         <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="A" />
