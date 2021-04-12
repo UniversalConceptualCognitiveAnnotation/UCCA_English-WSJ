@@ -3,58 +3,58 @@
   <layer layerID="0">
     <attributes />
     <node ID="0.1" type="Word">
-      <attributes paragraph="1" paragraph_position="1" text="And" />
+      <attributes paragraph="1" paragraph_position="1" text="_" />
     </node>
     <node ID="0.2" type="Word">
-      <attributes paragraph="1" paragraph_position="2" text="the" />
+      <attributes paragraph="1" paragraph_position="2" text="_" />
     </node>
     <node ID="0.3" type="Word">
-      <attributes paragraph="1" paragraph_position="3" text="city" />
+      <attributes paragraph="1" paragraph_position="3" text="_" />
     </node>
     <node ID="0.4" type="Word">
-      <attributes paragraph="1" paragraph_position="4" text="decided" />
+      <attributes paragraph="1" paragraph_position="4" text="_" />
     </node>
     <node ID="0.5" type="Word">
-      <attributes paragraph="1" paragraph_position="5" text="to" />
+      <attributes paragraph="1" paragraph_position="5" text="_" />
     </node>
     <node ID="0.6" type="Word">
-      <attributes paragraph="1" paragraph_position="6" text="treat" />
+      <attributes paragraph="1" paragraph_position="6" text="_" />
     </node>
     <node ID="0.7" type="Word">
-      <attributes paragraph="1" paragraph_position="7" text="its" />
+      <attributes paragraph="1" paragraph_position="7" text="_" />
     </node>
     <node ID="0.8" type="Word">
-      <attributes paragraph="1" paragraph_position="8" text="guests" />
+      <attributes paragraph="1" paragraph_position="8" text="_" />
     </node>
     <node ID="0.9" type="Word">
-      <attributes paragraph="1" paragraph_position="9" text="more" />
+      <attributes paragraph="1" paragraph_position="9" text="_" />
     </node>
     <node ID="0.10" type="Word">
-      <attributes paragraph="1" paragraph_position="10" text="like" />
+      <attributes paragraph="1" paragraph_position="10" text="_" />
     </node>
     <node ID="0.11" type="Word">
-      <attributes paragraph="1" paragraph_position="11" text="royalty" />
+      <attributes paragraph="1" paragraph_position="11" text="_" />
     </node>
     <node ID="0.12" type="Word">
-      <attributes paragraph="1" paragraph_position="12" text="or" />
+      <attributes paragraph="1" paragraph_position="12" text="_" />
     </node>
     <node ID="0.13" type="Word">
-      <attributes paragraph="1" paragraph_position="13" text="rock" />
+      <attributes paragraph="1" paragraph_position="13" text="_" />
     </node>
     <node ID="0.14" type="Word">
-      <attributes paragraph="1" paragraph_position="14" text="stars" />
+      <attributes paragraph="1" paragraph_position="14" text="_" />
     </node>
     <node ID="0.15" type="Word">
-      <attributes paragraph="1" paragraph_position="15" text="than" />
+      <attributes paragraph="1" paragraph_position="15" text="_" />
     </node>
     <node ID="0.16" type="Word">
-      <attributes paragraph="1" paragraph_position="16" text="factory" />
+      <attributes paragraph="1" paragraph_position="16" text="_" />
     </node>
     <node ID="0.17" type="Word">
-      <attributes paragraph="1" paragraph_position="17" text="owners" />
+      <attributes paragraph="1" paragraph_position="17" text="_" />
     </node>
     <node ID="0.18" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="18" text="." />
+      <attributes paragraph="1" paragraph_position="18" text="_" />
     </node>
   </layer>
   <layer layerID="1">

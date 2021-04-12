@@ -3,91 +3,91 @@
   <layer layerID="0">
     <attributes />
     <node ID="0.1" type="Word">
-      <attributes paragraph="1" paragraph_position="1" text="The" />
+      <attributes paragraph="1" paragraph_position="1" text="_" />
     </node>
     <node ID="0.2" type="Word">
-      <attributes paragraph="1" paragraph_position="2" text="next" />
+      <attributes paragraph="1" paragraph_position="2" text="_" />
     </node>
     <node ID="0.3" type="Word">
-      <attributes paragraph="1" paragraph_position="3" text="morning" />
+      <attributes paragraph="1" paragraph_position="3" text="_" />
     </node>
     <node ID="0.4" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="4" text="," />
+      <attributes paragraph="1" paragraph_position="4" text="_" />
     </node>
     <node ID="0.5" type="Word">
-      <attributes paragraph="1" paragraph_position="5" text="with" />
+      <attributes paragraph="1" paragraph_position="5" text="_" />
     </node>
     <node ID="0.6" type="Word">
-      <attributes paragraph="1" paragraph_position="6" text="a" />
+      <attributes paragraph="1" paragraph_position="6" text="_" />
     </node>
     <node ID="0.7" type="Word">
-      <attributes paragraph="1" paragraph_position="7" text="police" />
+      <attributes paragraph="1" paragraph_position="7" text="_" />
     </node>
     <node ID="0.8" type="Word">
-      <attributes paragraph="1" paragraph_position="8" text="escort" />
+      <attributes paragraph="1" paragraph_position="8" text="_" />
     </node>
     <node ID="0.9" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="9" text="," />
+      <attributes paragraph="1" paragraph_position="9" text="_" />
     </node>
     <node ID="0.10" type="Word">
-      <attributes paragraph="1" paragraph_position="10" text="busloads" />
+      <attributes paragraph="1" paragraph_position="10" text="_" />
     </node>
     <node ID="0.11" type="Word">
-      <attributes paragraph="1" paragraph_position="11" text="of" />
+      <attributes paragraph="1" paragraph_position="11" text="_" />
     </node>
     <node ID="0.12" type="Word">
-      <attributes paragraph="1" paragraph_position="12" text="executives" />
+      <attributes paragraph="1" paragraph_position="12" text="_" />
     </node>
     <node ID="0.13" type="Word">
-      <attributes paragraph="1" paragraph_position="13" text="and" />
+      <attributes paragraph="1" paragraph_position="13" text="_" />
     </node>
     <node ID="0.14" type="Word">
-      <attributes paragraph="1" paragraph_position="14" text="their" />
+      <attributes paragraph="1" paragraph_position="14" text="_" />
     </node>
     <node ID="0.15" type="Word">
-      <attributes paragraph="1" paragraph_position="15" text="wives" />
+      <attributes paragraph="1" paragraph_position="15" text="_" />
     </node>
     <node ID="0.16" type="Word">
-      <attributes paragraph="1" paragraph_position="16" text="raced" />
+      <attributes paragraph="1" paragraph_position="16" text="_" />
     </node>
     <node ID="0.17" type="Word">
-      <attributes paragraph="1" paragraph_position="17" text="to" />
+      <attributes paragraph="1" paragraph_position="17" text="_" />
     </node>
     <node ID="0.18" type="Word">
-      <attributes paragraph="1" paragraph_position="18" text="the" />
+      <attributes paragraph="1" paragraph_position="18" text="_" />
     </node>
     <node ID="0.19" type="Word">
-      <attributes paragraph="1" paragraph_position="19" text="Indianapolis" />
+      <attributes paragraph="1" paragraph_position="19" text="_" />
     </node>
     <node ID="0.20" type="Word">
-      <attributes paragraph="1" paragraph_position="20" text="Motor" />
+      <attributes paragraph="1" paragraph_position="20" text="_" />
     </node>
     <node ID="0.21" type="Word">
-      <attributes paragraph="1" paragraph_position="21" text="Speedway" />
+      <attributes paragraph="1" paragraph_position="21" text="_" />
     </node>
     <node ID="0.22" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="22" text="," />
+      <attributes paragraph="1" paragraph_position="22" text="_" />
     </node>
     <node ID="0.23" type="Word">
-      <attributes paragraph="1" paragraph_position="23" text="unimpeded" />
+      <attributes paragraph="1" paragraph_position="23" text="_" />
     </node>
     <node ID="0.24" type="Word">
-      <attributes paragraph="1" paragraph_position="24" text="by" />
+      <attributes paragraph="1" paragraph_position="24" text="_" />
     </node>
     <node ID="0.25" type="Word">
-      <attributes paragraph="1" paragraph_position="25" text="traffic" />
+      <attributes paragraph="1" paragraph_position="25" text="_" />
     </node>
     <node ID="0.26" type="Word">
-      <attributes paragraph="1" paragraph_position="26" text="or" />
+      <attributes paragraph="1" paragraph_position="26" text="_" />
     </node>
     <node ID="0.27" type="Word">
-      <attributes paragraph="1" paragraph_position="27" text="red" />
+      <attributes paragraph="1" paragraph_position="27" text="_" />
     </node>
     <node ID="0.28" type="Word">
-      <attributes paragraph="1" paragraph_position="28" text="lights" />
+      <attributes paragraph="1" paragraph_position="28" text="_" />
     </node>
     <node ID="0.29" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="29" text="." />
+      <attributes paragraph="1" paragraph_position="29" text="_" />
     </node>
   </layer>
   <layer layerID="1">
